@@ -28,9 +28,9 @@
 
 ## [选型建议](https://github.com/SoCXin/EC618)
 
-[EC618](https://github.com/SoCXin/EC618)竞品包括
+[EC618](https://github.com/SoCXin/EC618) 同类的Cat.1bis竞品包括：
 
 * [ASR1601](https://github.com/SoCXin/ASR1601)
-* [USI8910DM](https://github.com/SoCXin/USI8910DM)
+* [UIS8910DM](https://github.com/SoCXin/UIS8910DM)
 
 ## [www.SoC.xin](http://www.SoC.Xin)
